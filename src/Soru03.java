@@ -10,7 +10,7 @@ public class Soru03 {
      System.out.println("String giriniz");
      String kelime=scan.next();
 
-    System.out.println(kelime.toUpperCase());
+     System.out.println(kelime.toUpperCase());
 
     }
 }
