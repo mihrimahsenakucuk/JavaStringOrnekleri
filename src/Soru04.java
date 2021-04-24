@@ -6,6 +6,7 @@ public class Soru04 {
 
      String cumle= "Java programlama dilidir";
      StringBuffer sb= new StringBuffer(cumle);
+	    
      System.out.println(sb.reverse());
 	  
 
